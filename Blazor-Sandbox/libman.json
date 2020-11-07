@@ -1,0 +1,27 @@
+{
+    "version": "1.0",
+    "defaultProvider": "cdnjs",
+    "libraries": [
+        {
+            "library": "materialize@1.0.0",
+            "destination": "wwwroot/lib/materialize",
+            "files": [
+                "**"
+            ]
+        },
+        {
+            "library": "open-iconic@1.1.1",
+            "destination": "wwwroot/lib/open-iconic",
+            "files": [
+                "**"
+            ]
+        },
+        {
+            "library": "twitter-bootstrap@4.5.3",
+            "destination": "wwwroot/lib/bootstrap",
+            "files": [
+                "**"
+            ]
+        }
+    ]
+}
